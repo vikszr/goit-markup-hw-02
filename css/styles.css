@@ -45,29 +45,26 @@ ul {
 }
 
 .contacts {
+  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
-.email,
-.phone {
+.email-phone {
   font-style: normal;
 }
 
-.contacts .email,
-.contacts .phone {
+.contacts .email-phone {
   color: #434455;
 }
 
-.contacts .email:hover,
-.contacts .phone:hover {
+.contacts .email-phone:hover {
   color: #404bbf;
 }
 
-.contacts .phone:focus,
-.contacts .email:focus {
+.contacts .email-phone:focus {
   color: #404bbf;
 }
 
@@ -91,6 +88,9 @@ ul {
   background-color: #4d5ae5;
   font-weight: 500;
   cursor: pointer;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
 }
 
 .button:hover,
@@ -120,6 +120,7 @@ ul {
   text-align: center;
   color: #2e2f42;
   letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 
 .list-name {
@@ -127,6 +128,11 @@ ul {
   font-size: 20px;
   line-height: 1.2;
   color: #2e2f42;
+  letter-spacing: 0.02em;
+}
+
+.people {
+  background-color: #fff;
 }
 
 .list-paragraph {
@@ -149,6 +155,7 @@ ul {
   font-size: 18px;
   line-height: 1.17;
   text-transform: uppercase;
+  letter-spacing: 0.03em;
   color: #4d5ae5;
 }
 
