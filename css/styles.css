@@ -1,0 +1,156 @@
+body {
+  font-family: Roboto, sans-serif;
+  color: #2e2f42;
+  background-color: #ffffff;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  color: #2e2f42;
+  text-transform: uppercase;
+}
+
+.web {
+  color: #4d5ae5;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+}
+
+.web {
+  color: #4d5ae5;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+}
+
+.pages-title {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+}
+.pages-title:hover {
+  color: #404bbf;
+}
+
+.pages .pages1 {
+  color: #2e2f42;
+}
+.pages .pages1:hover {
+  color: #404bbf;
+}
+.pages .pages1:active {
+  border-radius: 2px;
+  width: 48px;
+  height: 4px;
+}
+*/ .contacts {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+}
+.contacts .email {
+  color: #434455;
+}
+.contacts .phone {
+  color: #434455;
+}
+.contacts .email:hover {
+  color: #404bbf;
+}
+.contacts .phone:hover {
+  color: #404bbf;
+}
+
+/* main */
+
+.main {
+  background-color: #2e2f42;
+}
+.title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
+  text-align: center;
+  color: #fff;
+}
+
+.button {
+  background-color: #4d5ae5;
+}
+
+.button-name {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #fff;
+  text-align: center;
+}
+
+/* our team */
+
+.people {
+  width: 264px;
+  height: 260px;
+}
+
+.team {
+  background-color: #f4f4fd;
+}
+
+.main-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.list-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #2e2f42;
+}
+
+.list-paragraph {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+}
+
+/* footer */
+
+.footer {
+  background-color: #2e2f42;
+}
+
+.logo2 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  text-transform: uppercase;
+  color: #f4f4fd;
+}
+
+.footer-paragraph {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #f4f4fd;
+}
